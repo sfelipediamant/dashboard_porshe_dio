@@ -2,7 +2,7 @@
 
 Dashboard interativo de vendas de carros da marca Porsche, com visual inspirado no site oficial da Porsche Brasil. Foi construído a partir da planilha `Vendas Porsche.xlsx` (100 registros) e entregue como um único arquivo HTML, que funciona offline em qualquer navegador.
 
-**Arquivo principal:** `dashboard/index.html`
+**Arquivo principal:** `index.html`
 
 ---
 
