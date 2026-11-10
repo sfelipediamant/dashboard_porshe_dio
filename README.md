@@ -2,7 +2,7 @@
 
 Dashboard interativo de vendas de carros da marca Porsche, com visual inspirado no site oficial da Porsche Brasil. Foi construído a partir da planilha `Vendas Porsche.xlsx` (100 registros) e entregue como um único arquivo HTML, que funciona offline em qualquer navegador.
 
-**Arquivo principal:** `Dashboard_Vendas_Porsche_Premium.html`
+**Arquivo principal:** `dashboard/index.html`
 
 ---
 
@@ -112,6 +112,3 @@ Na conversa, o Copilot leu a planilha, calculou os indicadores com código, gero
 **URL:** _a definir (publicação em andamento)_
 
 Como o dashboard é um único arquivo HTML estático, ele pode ser publicado sem servidor, por exemplo na Vercel, no GitHub Pages ou no SharePoint. Depois de publicar, substitua o texto acima pelo endereço final.
-
----
-
